@@ -5,7 +5,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+void main(){
   
     int num1, num2;
     cout << "Please enter two numbers:\n"; // prompt user to enter numbers
@@ -96,7 +96,6 @@ int main(){
             that is initialized with the value of the variable "num1", provided
             "num1" is already declared above.  
     */
-    return 0;
 }
 
 // Thank you. Keep Learning! See you in the next program!
