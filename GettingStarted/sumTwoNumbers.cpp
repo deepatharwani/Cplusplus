@@ -9,6 +9,7 @@
     
     - single line comments can be inserted after // (two back-slashes).    
 */
+
 #include <iostream> 
 
 /*
@@ -16,6 +17,7 @@
     instead of everytime using std::cin and std::cout, 
     we directly use the namespace std in the whole program.
 */
+
 using namespace std;
 
 // every C++ program has a main FUNCTION which gets executed when we execute the program.
@@ -27,6 +29,7 @@ using namespace std;
         function body;
     }
 */
+
 int main(){
     
     /*
